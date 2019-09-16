@@ -10,6 +10,8 @@ Nincsen megrendeléseket kezelő rendszerünk, és raktárkészlet nyilvántart�
 ....
 
 3. Vágyálom rendszer
+A modern üzletek gyakran rendelkeznek informatikai rendszerrel, szeretnénk azokat a modulkokat bevezetni, amelyek egy kisbolt működése szempontjából is hasznosak.
+Legfontosabb ilyen modul a raktárkészlet lenne.
 
 4. Jelenlegi üzleti folyamatok modellje
 
