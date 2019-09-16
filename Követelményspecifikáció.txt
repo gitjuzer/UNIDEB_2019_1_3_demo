@@ -2,6 +2,8 @@ Kisbót projekt
 Követelményspecifikáció
 
 1. Bevezetés
+Kisboltunk 35 éve működik, egyetlen iformatikai eszközünk a pénztárgép, ami kötelező.
+A megrendeléseinket papíron vezetjük, és adjuk le.
 
 2. Jelenlegi helyzet
 Nincsen megrendeléseket kezelő rendszerünk, és raktárkészlet nyilvántartás sem.
