@@ -4,6 +4,8 @@ Követelményspecifikáció
 1. Bevezetés
 
 2. Jelenlegi helyzet
+Nincsen megrendeléseket kezelő rendszerünk, és raktárkészlet nyilvántartás sem.
+....
 
 3. Vágyálom rendszer
 
