@@ -10,6 +10,9 @@ Nincsen megrendeléseket kezelő rendszerünk, és raktárkészlet nyilvántart�
 ....
 
 3. Vágyálom rendszer
+Olyan rendszert szeretnénk, amely a lehető legtöbb terhet leveszi a vezetők és az alkalmazottak válláról is.
+A vezető fő kiváltandó és támogatandó feladatai:
+......
 
 4. Jelenlegi üzleti folyamatok modellje
 
